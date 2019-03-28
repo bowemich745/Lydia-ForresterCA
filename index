@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<!--
+    Yeet
+-->
+<html>
+	<head>
+		<title>Lydia Forrester</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+        <div id="wrapper" class="divided">
+
+            <!-- One -->
+            <section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+                <div class="content">
+                    <h1>The Story of</h1>
+                    <h2 class="major">Lydia Forrester.</h2>
+
+                </div>
+                <div class="image">
+                    <img src="images/Dr. Lydia Forrester.jpg" alt="" />
+                </div>
+            </section>
+
+            <!-- Two -->
+            <section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+                <div class="content">
+                    <h1>Educated</h1>
+                    <h2>Her brothers struggle for health led Lydia to the medical field. She did well in school and got a full scholarship to Columbia University and went on to Johns Hopkins University where she finished top of her class, specializing in congenital heart surgery.</h2>
+                </div>
+                <div class="image">
+                    <img src="images/Educated.png" alt="" />
+                </div>
+            </section>
+
+            <!-- Three -->
+            <section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+                <div class="content">
+                    <h1>Doctor</h1>
+                    <h2>Specialized in congenital heart surgery. Head of Cardiothoracic Surgery at Mayo clinic. Was able to perform surgery on her little brother; a surgery that saved his life. Wants to help revamp medical care and adjust healthcare prices in the United States of America.</h2>
+                </div>
+                <div class="image">
+                    <img src="images/Doctor.png" alt="" />
+                </div>
+            </section>
+
+            <!-- Four -->
+            <section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+                <div class="content">
+                    <h1>Mother</h1>
+                    <h2></h2>
+                </div>
+                <div class="image">
+                    <img src="images/spotlight03.jpg" alt="" />
+                </div>
+            </section>
+
+            <!-- Five -->
+            <section class="wrapper style1 align-center">
+                <!-- Footer -->
+                <footer class="wrapper style1 align-center">
+                    <div class="inner">
+                        <ul class="icons">
+                            <li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+                            <li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+                            <li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+                            <li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+                        </ul>
+                        <p>Lydia Forrest LLC</p>
+                    </div>
+                </footer>
+
+        </div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
